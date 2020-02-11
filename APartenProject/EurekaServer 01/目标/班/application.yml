@@ -3,7 +3,7 @@ server:
 spring:
   application:
     name: EurekaServer01
-#EurekaServer配置
+#EurekaServer配置1111111111111
 eureka:
   client: #服务器
     register-with-eureka: false #此EurekaServer不在注册到其他的注册中心
